@@ -1,0 +1,9 @@
+{
+  "role": "build",
+  "issue_id": "REA-164",
+  "issue_title": "Add a hello.py script that prints Hello World",
+  "branch": "rea-164-add-a-hellopy-script-that",
+  "worktree_path": "/Users/jim/loops/hermes-loop-r2-test/worktrees/build",
+  "started_at": 1786496222.809165,
+  "description": "## Target\n\nRepo/directory: /Users/jim/ProjectsTrading/hermes-loop-r2-test\n\n## Acceptance Criteria\n\n* AC-1: Create [hello.py](<http://hello.py>) that prints 'Hello World'"
+}
